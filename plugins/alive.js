@@ -82,7 +82,7 @@ if (setarr[i].use === 'utility') {
   utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
 }
 }
-  var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
+  var menu = `╭═══〘 𝙉𝙀𝙕𝙐𝙆𝙊 𝘽𝙊𝙏 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
 ┃❉│ Owner : ${BOT_INFO.split(";")[1]}
